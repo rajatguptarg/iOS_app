@@ -24,4 +24,9 @@
     // Dispose of any resources that can be recreated.
 }
 
+- (IBAction)buttonClicked:(id)sender {
+
+self.lblTitle.text= @"Rajat is a hero";
+
+}
 @end
